@@ -1,0 +1,9 @@
+
+*.obj
+*.tlog
+*.pdb
+*.ilk
+*.idb
+*.log
+*.db
+.vs/QGStack/v15/.suo
